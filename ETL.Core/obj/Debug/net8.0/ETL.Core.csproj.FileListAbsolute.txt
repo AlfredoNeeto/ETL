@@ -1,0 +1,12 @@
+C:\Users\eualf\Downloads\SOLID\APP_ETL\ETL.Core\bin\Debug\net8.0\Files\dados.csv
+C:\Users\eualf\Downloads\SOLID\APP_ETL\ETL.Core\bin\Debug\net8.0\ETL.Core.deps.json
+C:\Users\eualf\Downloads\SOLID\APP_ETL\ETL.Core\bin\Debug\net8.0\ETL.Core.dll
+C:\Users\eualf\Downloads\SOLID\APP_ETL\ETL.Core\bin\Debug\net8.0\ETL.Core.pdb
+C:\Users\eualf\Downloads\SOLID\APP_ETL\ETL.Core\obj\Debug\net8.0\ETL.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eualf\Downloads\SOLID\APP_ETL\ETL.Core\obj\Debug\net8.0\ETL.Core.AssemblyInfoInputs.cache
+C:\Users\eualf\Downloads\SOLID\APP_ETL\ETL.Core\obj\Debug\net8.0\ETL.Core.AssemblyInfo.cs
+C:\Users\eualf\Downloads\SOLID\APP_ETL\ETL.Core\obj\Debug\net8.0\ETL.Core.csproj.CoreCompileInputs.cache
+C:\Users\eualf\Downloads\SOLID\APP_ETL\ETL.Core\obj\Debug\net8.0\ETL.Core.dll
+C:\Users\eualf\Downloads\SOLID\APP_ETL\ETL.Core\obj\Debug\net8.0\refint\ETL.Core.dll
+C:\Users\eualf\Downloads\SOLID\APP_ETL\ETL.Core\obj\Debug\net8.0\ETL.Core.pdb
+C:\Users\eualf\Downloads\SOLID\APP_ETL\ETL.Core\obj\Debug\net8.0\ref\ETL.Core.dll
